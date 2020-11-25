@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-- LinkedIn: <a href = "https://www.linkedin.com/in/kardr%C3%AAan-monte-7064b915a/" Kardrêan Monte </a>
+- LinkedIn: <a href = "https://www.linkedin.com/in/kardr%C3%AAan-monte-7064b915a/"> Kardrêan Monte </a>
 
